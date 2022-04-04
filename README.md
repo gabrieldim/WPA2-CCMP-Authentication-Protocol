@@ -1,4 +1,6 @@
 # WPA2-CCMP-Authentication-Protocol ( Information security )
+- Before you start, please open the picture attached in this repository to understand better what is this repository all about.
+-----------
 CCMP authentication protocol in Java programming language.
 To create this stimulation of the protocol I used 5 classes and used my knowledge of network security and code writing skills in Java.
 - The Main class is actually the class in which all classes merge and execute. According to the practice so far, I used this class only to test the functionality of the whole code.
