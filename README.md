@@ -10,3 +10,4 @@ To create this stimulation of the protocol I used 5 classes and used my knowledg
 - EncryptedFrame is a class for storing encrypted data. <br>
 
 => Gabriel Dimitrievski
+ 
